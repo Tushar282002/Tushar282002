@@ -39,9 +39,9 @@ I'm a Computer Science student graduating in June 2025 and an aspiring Software 
 
 ## 📫 How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/tushar-gangurde-/]()
+- LinkedIn: [https://www.linkedin.com/in/tushar-gangurde-/](https://www.linkedin.com/in/tushar-gangurde-/)
 - Email: tushargangurde859@gmail.com
-- Portfolio: [https://tushar282002.github.io/]()
+- Portfolio: [https://tushar282002.github.io/](https://tushar282002.github.io/)
 
 ## 📊 GitHub Stats
 
